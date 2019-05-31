@@ -1,0 +1,10 @@
+C:\Users\matth\source\repos\RobloxPlayerBot\RobloxPlayerBot\bin\Debug\RobloxPlayerBot.exe.config
+C:\Users\matth\source\repos\RobloxPlayerBot\RobloxPlayerBot\bin\Debug\RobloxPlayerBot.exe
+C:\Users\matth\source\repos\RobloxPlayerBot\RobloxPlayerBot\bin\Debug\RobloxPlayerBot.pdb
+C:\Users\matth\source\repos\RobloxPlayerBot\RobloxPlayerBot\obj\Debug\RobloxPlayerBot.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\RobloxPlayerBot\RobloxPlayerBot\obj\Debug\RobloxPlayerBot.exe
+C:\Users\matth\source\repos\RobloxPlayerBot\RobloxPlayerBot\obj\Debug\RobloxPlayerBot.pdb
+C:\Users\matth\source\repos\RobloxPlayerBot\RobloxPlayerBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matth\source\repos\RobloxPlayerBot\RobloxPlayerBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matth\source\repos\RobloxPlayerBot\RobloxPlayerBot\obj\Debug\RobloxPlayerBot.csproj.CopyComplete
+C:\Users\matth\source\repos\RobloxPlayerBot\RobloxPlayerBot\obj\Debug\RobloxPlayerBot.csprojAssemblyReference.cache
